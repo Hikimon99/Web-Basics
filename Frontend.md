@@ -37,10 +37,11 @@ link to assignment will be attached
 * [Introduction to HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML)
 
 #### FAQ
-1. What is an the extension method in C#? examples of built-in extension methods? What's the syntax of creating custom extension methods?
-2. fd
-3. sdf
-4. df
+1. What is the client-server model from the internet?
+2. What are GET and POST methods in HTTP?
+3. How is information passed through the URL?
+4. What are the different Status Codes and what do they mean?
+5. What is the difference between the Head tag and Body tag in an HTML file?
 
 
 ### Styling the Document with CSS - Day 13
@@ -68,34 +69,39 @@ link to assignment will be attached
 * [Media Queries](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Media_queries)
 
 #### FAQ
-1. What is an the extension method in C#? examples of built-in extension methods? What's the syntax of creating custom extension methods?
-2. fd
-3. sdf
-4. df
+1. What are the three ways to style CSS?
+2. Why is the box model important?
+3. What is the difference between flex and grid?
+4. Can selectors be chained?
 
-### The Internet and HTML - Day 13
+### JavaScript - Day 14
 #### Class
 | Phase       | Teacher’s Guide                                              |
 |-------------|--------------------------------------------------------------|
-| JavaScript Syntax | A brief introduction on how JavaScript is coded involving  |
-| IP Address and Communication  | Break down web address and what it means including understanding in IP addresses, status codes and request methods |
-| Document and HTML | Explain what a page is made from a skelecton HTML, style CSS, and interactive JavaScript |
-| HTML Basics | Start explaination of HTML boilerplate and tags from both head and body. Cover concepts of scope and semantics |
+| JavaScript Syntax | A brief introduction on how JavaScript is coded involving primitives, scope, and objects  |
+| DOM Manipulation  | Use query selectors in order to show values are mutable in the document  |
+| Cookies | Explain what cookies are and how they can be created using document.cookie  |
+| Sessions | Introduce storage such as local and session storage. After explaination, provide demo with browser |
+| Introduce Async Await | Explain concept of Synchronous vs Asychronous and how important it is for web applications |
+| Promises | Using Async, explain how promises help manage callback async functions
 
 
 #### Homework Assignment ==Days to Finish  - 1==
 link to assignment will be attached
 
 #### Reading Material
-* [Internet Workings](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work)
-* [Hyperlinks](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_are_hyperlinks)
-* [World Wide Web Workings](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works)
-* [URL Structure](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_URL)
-* [HTTP Status Codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
-* [Introduction to HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML)
+* [Great JavaScript Tutorial](https://www.geeksforgeeks.org/javascript-syntax/)
+* [Query Selectors](https://www.javatpoint.com/javascript-queryselector)
+* [All about "Document"](https://developer.mozilla.org/en-US/docs/Web/API/Document)
+* [Cookie Creator](https://www.w3schools.com/js/js_cookies.asp)
+* [Web Storage](https://www.javatpoint.com/html-web-storage)
+* [Guide to Async Programming in JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous)
+* [Guide to promises](https://javascript.info/async)
 
 #### FAQ
-1. What is an the extension method in C#? examples of built-in extension methods? What's the syntax of creating custom extension methods?
-2. fd
-3. sdf
-4. df
+1. What is an the difference between Queryselectors and "getElementById" in JavaScript
+2. What is the difference between "==" and "==="?
+3. What is the two types of storages in the browser?
+4. What is the functionality of Cookies?
+5. How do promises work?
+6. What are callbacks?
